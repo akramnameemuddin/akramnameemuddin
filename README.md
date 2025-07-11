@@ -8,7 +8,7 @@
 
 - 🎓 B.Tech in Computer Science (AI & ML) @ VVIT (CGPA 7.5)
 - 📊 1.4+ years of experience in Data Analysis, Engineering & Full Stack Development
-- 🔍 Former Data Quality Intern @ Saras Analytics
+- 🔍 Worked as Data Quality Intern @ Saras Analytics
 - 💼 Built data-driven solutions for leading apparel and e-commerce brands
 - ⚙️ Passionate about combining data science, web development, and AI to build impactful products
 - 🚀 Currently working on an AI-powered **Employment Platform** to personalize job matching and skill recommendations
