@@ -1,6 +1,6 @@
 # Hi there, I'm Akram Naeemuddin 👋
 
-🎯 **Data Professional | Full Stack Developer | AI/ML Enthusiast**
+🎯 **Data Professional | Full Stack Developer | AI/ML Enthusiast | Building smart, data-driven products.**
 
 ---
 
