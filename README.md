@@ -73,6 +73,5 @@ Chalapathi Institute of Technology — *74%*
 ## 🔗 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akramnaeemuddin/)
-- 💻 [Portfolio](https://jobelevates.akramnaeemuddin.me/)
-- 🐙 [GitHub](https://github.com/akramnameemuddin)
+- 💻 [Portfolio](https://akramnaeemuddin.me/)
 - 📧 [akramnaeemuddin09@gmail.com](mailto:akramnaeemuddin09@gmail.com)
