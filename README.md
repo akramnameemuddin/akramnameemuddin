@@ -25,17 +25,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,react,django,postgres,mysql,aws,git,vscode,postman,html,css,powershell&perline=9" alt="Tech Stack"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramnaeemuddin&show_icons=true&theme=tokyonight" alt="Akram's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramnaeemuddin&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💼 Experience
 
 ### 💻 Data Quality Intern — *Saras Analytics, Hyderabad (Aug 2022 – Jan 2023)*
