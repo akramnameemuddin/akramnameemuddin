@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,django,postgres,mysql,aws,git,vscode,postman,html,css,powershell&perline=9" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,django,postgres,mysql,aws,git,postman,html,css" alt="Tech Stack"/>
 </p>
 
 ## 💼 Experience
