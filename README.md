@@ -330,59 +330,16 @@ An innovative AI-based job matching and skill development web platform designed 
 
 ---
 
-## 🌟 **Additional Projects Portfolio**
+## 🌟 **Additional Projects Highlights**
 
-### 🔹 **E-commerce Analytics Dashboard** | *Data Visualization & BI*
-📅 **January 2023 - March 2023**
+### 🔹 **E-commerce Analytics Dashboard** | *Data Visualization & BI* (Jan-Mar 2023)
+Built comprehensive analytics dashboard for e-commerce performance monitoring. **Impact**: 40% faster decision-making, $50K+ revenue optimization opportunities identified.
 
-**Project Description**: Developed a comprehensive analytics dashboard for e-commerce performance monitoring and business intelligence.
+### 🔹 **Automated Data Quality Framework** | *Data Engineering* (Jun-Aug 2022)  
+Developed automated data quality monitoring system for enterprise pipelines. **Impact**: 60% reduction in data quality issues, 75% less manual validation time.
 
-**Key Features**:
-- Real-time sales performance tracking and revenue analytics
-- Customer behavior analysis and segmentation insights
-- Inventory management and demand forecasting
-- Marketing campaign effectiveness measurement
-- Interactive visualizations with drill-down capabilities
-
-**Technologies**: `Python` `Tableau` `SQL` `Excel VBA` `Google Analytics API`
-
-**Impact**: Improved decision-making speed by 40% and identified key revenue optimization opportunities worth $50K+ annually.
-
----
-
-### 🔹 **Automated Data Quality Framework** | *Data Engineering*
-📅 **June 2022 - August 2022**
-
-**Project Description**: Built an automated data quality monitoring and validation system for enterprise data pipelines.
-
-**Key Features**:
-- Automated data profiling and anomaly detection
-- Real-time data quality scoring and alerting
-- Data lineage tracking and impact analysis
-- Customizable validation rules and thresholds
-- Integration with existing ETL processes
-
-**Technologies**: `Python` `SQL` `Apache Airflow` `PostgreSQL` `Pandas`
-
-**Impact**: Reduced data quality issues by 60% and decreased manual validation time by 75%.
-
----
-
-### 🔹 **Customer Churn Prediction Model** | *Machine Learning*
-📅 **April 2023 - June 2023**
-
-**Project Description**: Developed a machine learning model to predict customer churn for subscription-based businesses.
-
-**Key Features**:
-- Advanced feature engineering from customer behavioral data
-- Ensemble modeling with Random Forest and Gradient Boosting
-- Real-time prediction API for customer risk scoring
-- Interpretable model outputs for business stakeholders
-- A/B testing framework for model performance validation
-
-**Technologies**: `Python` `Scikit-learn` `XGBoost` `Flask` `Docker` `AWS`
-
-**Impact**: Achieved 87% accuracy in churn prediction, enabling proactive retention strategies that reduced churn by 23%.
+### 🔹 **Customer Churn Prediction Model** | *Machine Learning* (Apr-Jun 2023)
+Built ML model for churn prediction with ensemble methods. **Impact**: 87% accuracy achieved, 23% churn reduction through proactive retention strategies.
 
 ---
 
