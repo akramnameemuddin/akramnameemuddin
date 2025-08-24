@@ -8,19 +8,43 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akramnaeemuddin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://akramnaeemuddin.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnaeemuddin09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akramnaeemuddin)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919951916519)
+<div align="center">
+  <a href="https://linkedin.com/in/akramnaeemuddin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://akramnaeemuddin.me">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722&color=FF5722" alt="Portfolio"/>
+  </a>
+  <a href="mailto:akramnaeemuddin09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/akramnameemuddin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=100000" alt="GitHub"/>
+  </a>
+  <a href="tel:+919951916519">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366" alt="Phone"/>
+  </a>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=akramnaeemuddin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=akramnameemuddin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header Wave"/>
 
 </div>
 
 ---
 
 ## 🎯 **Professional Summary**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-blue?style=for-the-badge&logo=checkmark&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Technologies-15%2B%20Mastered-orange?style=for-the-badge&logo=gear&logoColor=white" alt="Technologies"/>
+</div>
+
+<br/>
 
 > *Passionate Data Scientist and Full Stack Developer with 1.5+ years of experience in transforming complex data into actionable insights and building scalable AI-powered applications. Specialized in machine learning, data analytics, and end-to-end software development with a proven track record of delivering impactful solutions.*
 
@@ -132,59 +156,65 @@ An innovative AI-based job matching and skill development web platform designed 
 
 ## 🛠️ **Technical Skills & Expertise**
 
+<div align="center">
+
 ### 💻 **Programming Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="SQL"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++"/>
 </p>
 
 ### 🌐 **Web & App Development**
-<p align="left">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" alt="Django"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white&labelColor=02569B" alt="REST API"/>
 </p>
 
 ### 🗄️ **Databases**
-<p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" alt="MongoDB"/>
 </p>
 
 ### 🤖 **Machine Learning & AI**
-<p align="left">
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<p align="center">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=D00000" alt="Keras"/>
 </p>
 
 ### ☁️ **Cloud & DevOps**
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
 </p>
 
 ### 📊 **Data Analysis & Visualization**
-<p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=F2C811" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E97627" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Seaborn"/>
 </p>
+
+</div>
 
 ---
 
 ## 🏆 **Certifications & Professional Development**
+
+<div align="center">
 
 <table>
 <tr>
@@ -218,30 +248,45 @@ An innovative AI-based job matching and skill development web platform designed 
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 **GitHub Statistics & Activity**
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=GitHub%20Analytics&fontSize=20&fontColor=ffffff" alt="GitHub Analytics Header"/>
+
 ### 📈 **GitHub Stats Overview**
-<img src="https://github-readme-stats.vercel.app/api?username=akramnaeemuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akramnaeemuddin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=akramnameemuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akramnameemuddin&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%" />
 
 ### 💻 **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramnaeemuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramnameemuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="50%" />
 
 ### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=akramnaeemuddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=akramnameemuddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
 
 ### 📊 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akramnaeemuddin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akramnameemuddin&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Contribution Graph" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer" alt="GitHub Analytics Footer"/>
 
 </div>
 
 ---
 
 ## 🎯 **Core Competencies & Specializations**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Expert-brightgreen?style=for-the-badge&logo=chart-line&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-blue?style=for-the-badge&logo=brain&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Proficient-orange?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Intermediate-purple?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing"/>
+</div>
+
+<br/>
 
 ### 🔬 **Data Science & Analytics**
 - **Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
@@ -324,6 +369,13 @@ An innovative AI-based job matching and skill development web platform designed 
 
 ## 🎓 **Continuous Learning & Development**
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Learning%20Status-Always%20Growing-success?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Learning Status"/>
+  <img src="https://img.shields.io/badge/Next%20Goal-AWS%20Certified-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next Goal"/>
+</div>
+
+<br/>
+
 ### 📚 **Current Learning Focus**
 - **Advanced Deep Learning**: Exploring Transformer architectures and Large Language Models
 - **MLOps & Production ML**: Kubernetes, Model Monitoring, and Scalable ML Infrastructure
@@ -355,6 +407,13 @@ An innovative AI-based job matching and skill development web platform designed 
 ---
 
 ## 🎯 **Career Objectives & Vision**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Career%20Stage-Rising%20Professional-blueviolet?style=for-the-badge&logo=trending-up&logoColor=white" alt="Career Stage"/>
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Availability"/>
+</div>
+
+<br/>
 
 ### 🚀 **Short-term Goals (2025-2026)**
 - **Role Transition**: Secure a full-time Data Scientist or ML Engineer position
@@ -388,6 +447,14 @@ An innovative AI-based job matching and skill development web platform designed 
 
 ## 📞 **Contact Information & Availability**
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-red?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Graduation-May%202026-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Graduation"/>
+</div>
+
+<br/>
+
 ### 📧 **Professional Contact**
 - **Primary Email**: [akramnaeemuddin09@gmail.com](mailto:akramnaeemuddin09@gmail.com)
 - **Phone**: [+91-9951916519](tel:+919951916519)
@@ -412,23 +479,39 @@ An innovative AI-based job matching and skill development web platform designed 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=Connect%20With%20Me&fontSize=20&fontColor=ffffff" alt="Connect Header"/>
+
 ### 🌐 **Professional Profiles**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akramnaeemuddin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akramnaeemuddin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://akramnaeemuddin.me)
+<a href="https://linkedin.com/in/akramnaeemuddin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/akramnameemuddin">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+</a>
+<a href="https://akramnaeemuddin.me">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+</a>
 
 ### 📧 **Contact Methods**
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnaeemuddin09@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919951916519)
+<a href="mailto:akramnaeemuddin09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="tel:+919951916519">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/>
+</a>
 
 ### 🚀 **Featured Work**
-[![Smart Competency Platform](https://img.shields.io/badge/Smart_Competency_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jobelevates.akramnaeemuddin.me/)
+<a href="https://jobelevates.akramnaeemuddin.me/">
+  <img src="https://img.shields.io/badge/Smart_Competency_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4" alt="Smart Competency Platform"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Professional%20Philosophy&fontSize=24&fontColor=ffffff" alt="Philosophy Header"/>
 
 ### 💭 **Professional Philosophy**
 
@@ -439,6 +522,8 @@ An innovative AI-based job matching and skill development web platform designed 
 > *"To leverage the power of data science, artificial intelligence, and full-stack development to build innovative solutions that solve real-world problems, enhance user experiences, and contribute to technological advancement."*
 
 ---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Always+excited+to+connect+and+collaborate;Let's+build+something+amazing+together!" alt="Thank You Animation" />
 
 ### 🌟 **Thank you for visiting my profile!**
 
@@ -517,6 +602,15 @@ An innovative AI-based job matching and skill development web platform designed 
 
 ## 📈 **Performance Metrics & KPIs**
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Quality%20Improvement-25%25-brightgreen?style=for-the-badge&logo=trending-up&logoColor=white" alt="Data Quality"/>
+  <img src="https://img.shields.io/badge/Process%20Automation-30--75%25-blue?style=for-the-badge&logo=robot&logoColor=white" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Model%20Accuracy-85%25%2B-orange?style=for-the-badge&logo=target&logoColor=white" alt="Accuracy"/>
+  <img src="https://img.shields.io/badge/Cost%20Savings-50K%2B-success?style=for-the-badge&logo=dollar-sign&logoColor=white" alt="Savings"/>
+</div>
+
+<br/>
+
 ### 🎯 **Project Success Metrics**
 - **Data Quality Improvement**: 25% increase in data accuracy across projects
 - **Process Automation**: 30-75% reduction in manual processing time
@@ -564,6 +658,14 @@ An innovative AI-based job matching and skill development web platform designed 
 ---
 
 ## 🏆 **Awards & Recognition**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Dean's%20List-Multiple%20Semesters-gold?style=for-the-badge&logo=award&logoColor=white" alt="Dean's List"/>
+  <img src="https://img.shields.io/badge/Best%20Project-Smart%20Competency%20Platform-silver?style=for-the-badge&logo=trophy&logoColor=white" alt="Best Project"/>
+  <img src="https://img.shields.io/badge/Innovation%20Award-Data%20Science-bronze?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation"/>
+</div>
+
+<br/>
 
 ### 🥇 **Academic Honors**
 - **Dean's List**: Recognized for academic excellence in multiple semesters
@@ -613,6 +715,8 @@ An innovative AI-based job matching and skill development web platform designed 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Ready%20to%20Make%20an%20Impact&fontSize=24&fontColor=ffffff" alt="Impact Header"/>
+
 ## 🎯 **Ready to Make an Impact**
 
 ### 💼 **What I Bring to Your Team**
@@ -632,11 +736,19 @@ An innovative AI-based job matching and skill development web platform designed 
 
 **Ready to discuss how I can contribute to your team's success?**
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](mailto:akramnaeemuddin09@gmail.com?subject=Let's%20Connect%20-%20Opportunity%20Discussion)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](mailto:akramnaeemuddin09@gmail.com?subject=Resume%20Request)
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://akramnaeemuddin.me)
+<a href="mailto:akramnaeemuddin09@gmail.com?subject=Let's%20Connect%20-%20Opportunity%20Discussion">
+  <img src="https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=4285F4" alt="Schedule a Call"/>
+</a>
+<a href="mailto:akramnaeemuddin09@gmail.com?subject=Resume%20Request">
+  <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FF5722" alt="Download Resume"/>
+</a>
+<a href="https://akramnaeemuddin.me">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View Portfolio"/>
+</a>
 
 ---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thank+you+for+your+time!;Looking+forward+to+connecting;Let's+create+something+extraordinary!" alt="Thank You Final Animation" />
 
 ### 🌟 **Thank You for Your Time**
 
@@ -649,6 +761,14 @@ An innovative AI-based job matching and skill development web platform designed 
 ---
 
 ## 🎪 **Fun Facts & Personal Touch**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding%20Philosophy-Clean%20Code%20Matters-blueviolet?style=for-the-badge&logo=code&logoColor=white" alt="Philosophy"/>
+  <img src="https://img.shields.io/badge/Favorite%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dream%20Project-Climate%20AI-green?style=for-the-badge&logo=leaf&logoColor=white" alt="Dream"/>
+</div>
+
+<br/>
 
 ### 🎯 **Interesting Tidbits**
 - **Code Philosophy**: "Clean code is not written by following a set of rules. Clean code is written by programmers who care."
@@ -761,20 +881,24 @@ An innovative AI-based job matching and skill development web platform designed 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=Repository%20Analytics&fontSize=20&fontColor=ffffff" alt="Repository Analytics Header"/>
+
 ### 📈 **GitHub Activity Metrics**
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=akramnaeemuddin&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=akramnameemuddin&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)
 
 ### 🏆 **Achievement Showcase**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akramnaeemuddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akramnameemuddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews)
 
 ### 📊 **Detailed Statistics**
-![Detailed Stats](https://github-readme-stats.vercel.app/api?username=akramnaeemuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Detailed Stats](https://github-readme-stats.vercel.app/api?username=akramnameemuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ### 💻 **Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akramnaeemuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akramnameemuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ### 🔥 **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramnaeemuddin&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramnameemuddin&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer" alt="Repository Analytics Footer"/>
 
 </div>
 
@@ -798,24 +922,36 @@ If you've made it this far, thank you for your time and interest! I'm always exc
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=The%20Future%20Belongs%20to%20Learners&fontSize=24&fontColor=ffffff" alt="Future Header"/>
+
 ### 🌟 **"The future belongs to those who learn more skills and combine them in creative ways."**
 
 *- Robert Greene*
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Create+Impact+Together!;Ready+to+build+the+future+with+AI+and+Data;Your+next+great+team+member+awaits!" alt="Final Call to Action" />
+
 ### 📞 **Let's Connect and Create Impact Together!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akramnaeemuddin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnaeemuddin09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://akramnaeemuddin.me)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akramnaeemuddin)
+<a href="https://linkedin.com/in/akramnaeemuddin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="mailto:akramnaeemuddin09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="https://akramnaeemuddin.me">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+</a>
+<a href="https://github.com/akramnameemuddin">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+</a>
 
 ---
 
 ### 🎯 **Thank you for visiting! ⭐ Star this repo if you found it helpful!**
 
-<img src="https://komarev.com/ghpvc/?username=akramnaeemuddin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=akramnameemuddin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
